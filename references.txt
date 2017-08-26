@@ -1,0 +1,28 @@
+Boilerpipe:
+
+http://www.l3s.de/~kohlschuetter/publications/wsdm187-kohlschuetter.pdf
+
+The boilerpipe library provides algorithms to detect and remove the surplus "clutter" (boilerplate, templates) around the main textual content of a web page.
+The library already provides specific strategies for common tasks (for example: news article extraction) and may also be easily extended for individual problem settings.
+Extracting content is very fast (milliseconds), just needs the input document (no global or site-level information required) and is usually quite accurate.
+Boilerpipe is a Java library written by Christian Kohlschütter. It is released under the Apache License 2.0.
+The algorithms used by the library are based on (and extending) some concepts of the paper "Boilerplate Detection using Shallow Text Features" by Christian Kohlschütter et al., presented at WSDM 2010 -- The Third ACM International Conference on Web Search and Data Mining New York City, NY USA. Click here to read the paper and the presentation slides. A video of the presentation is freely available on Videolectures.net (turn speaker balance to the left to improve audio quality).
+
+Commercial support is available through Kohlschütter Search Intelligence.
+
+Original Implementation [JAVA]
+https://github.com/kohlschutter/boilerpipe
+
+Implementation [PYTHON3]:
+https://github.com/emavgl/boilerpipe3
+
+Gensim
+https://radimrehurek.com/gensim/models/ldamodel.html
+https://radimrehurek.com/gensim/tutorial.html
+
+Why using MongoDB? State of the art and who is using it?
+https://www.mongodb.com/customers/foursquare
+
+tutorial geospatial
+https://docs.mongodb.com/manual/tutorial/geospatial-tutorial/
+https://blog.mlab.com/2014/08/a-primer-on-geospatial-data-and-mongodb/#A_brief_word_on_prior_MongoDB_versions_lt24
