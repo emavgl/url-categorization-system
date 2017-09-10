@@ -8,7 +8,7 @@ This paper will present a system able to analyze logs of web requests in order t
 of both qualitative and performance aspect, in particular in avoiding costly re-computations.
 
 ## Report
-Please open the [report](https://www.google.com) and the [poster](https://www.google.com) for more information.
+Please open the [report](https://github.com/emavgl/url_categorization/raw/master/Report/Report.pdf) and the [poster](https://github.com/emavgl/url_categorization/raw/master/Poster/Poster.pdf) for more information.
 
 ## Data
 You can find sample of data and pickle files [here](https://drive.google.com/file/d/0B8rf8YUqVOCxR0tMTUVObmFCVnM/view?usp=sharing).
